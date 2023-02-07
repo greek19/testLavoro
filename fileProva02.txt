@@ -1,0 +1,2 @@
+nsereimento testo di prova
+da commandLine Bash 
